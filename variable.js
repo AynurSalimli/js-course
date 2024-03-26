@@ -38,7 +38,7 @@ console.log(_salam);
 
 //const ile declaration
 const serverPass= "salamsalam"
-serverPass = "saskaksa" //  TypeError
+// serverPass = "saskaksa" //  TypeError
 console.log(serverPass);
 
 //camelCase case sensitive
@@ -49,3 +49,8 @@ let kodluyoruzServerInfo = "Down"
 //UPPERCASE 
 let PASSWORD = "123456789"
 console.log(PASSWORD);
+
+//boolean
+let isActive = true
+let hasPassword = false
+console.log(isActive, hasPassword);
